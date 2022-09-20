@@ -2,12 +2,12 @@
 30 minutes
 
 ## Challenge
-Write a method that prints "Even" if the number passed is even and "Odd" if the number is odd.
+Write a conditional block that prints "Even" if the number passed is even and "Odd" if the number is odd.
   
 ## Examples
 ```java
 //Sample Input
-evenOrOdd(1156); 
+int number = 1156;
 
 //Expected Output
 Even
@@ -15,7 +15,7 @@ Even
 
 ```java
 //Sample Input
-evenOrOdd(2433);
+int number = 2433;
 
 //Expected Output
 Odd
