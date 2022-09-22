@@ -15,12 +15,10 @@ public static void main(String[] args) {
     String output2 = weirdOrNotWeird(2); // Not Weird
     String output3 = weirdOrNotWeird(14); // Weird
     String output4 = weirdOrNotWeird(32); // Not Weird
-
-    // ...
 }
 
 public static String weirdOrNotWeird(int n) {
-    // ...
+    // WRITE YOUR CODE HERE
 }
 ```
   
