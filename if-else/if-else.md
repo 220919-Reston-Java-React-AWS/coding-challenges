@@ -25,7 +25,7 @@ public static String weirdOrNotWeird(int n) {
 ## Examples
 ```java
 //Sample Input
-int n = 101;
+weirdOrNotWeird(101)
 
 //Expected Output
 Weird
@@ -33,7 +33,7 @@ Weird
 
 ```java
 //Sample Input
-int number = 2;
+weirdOrNotWeird(2)
 
 //Expected Output
 Not Weird
@@ -41,7 +41,7 @@ Not Weird
 
 ```java
 //Sample Input
-int number = 14;
+weirdOrNotWeird(14)
 
 //Expected Output
 Weird
@@ -49,7 +49,7 @@ Weird
 
 ```java
 //Sample Input
-int number = 32;
+weirdOrNotWeird(32)
 
 //Expected Output
 Not Weird
