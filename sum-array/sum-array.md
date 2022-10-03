@@ -10,4 +10,4 @@ sum(new int[] {12,4,53,22,8});
 99
 ```
 ## Topics Related To This Challenge
-- Recursion
+- Loops
